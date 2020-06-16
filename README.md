@@ -2,9 +2,9 @@
 
 RpcView is an open-source tool to explore and decompile all RPC functionalities present on a Microsoft system.
 
-You can download the last [automatically built release](https://ci.appveyor.com/project/silverf0x/rpcview/build/artifacts)
+You can download the last [automatically built release](https://ci.appveyor.com/project/killvxk/rpcview/build/artifacts)
 
-[![Build status](https://ci.appveyor.com/api/projects/status/o5wy6mdk16tuht70?svg=true)](https://ci.appveyor.com/project/silverf0x/rpcview)
+[![Build status](https://ci.appveyor.com/api/projects/status/github/killvxk/rpcview?branch=master&svg=true)](https://ci.appveyor.com/project/killvxk/rpcview)
 
 > **Warning**: you have to install "Microsoft Visual C++ 2015 Redistributable" to use RpcView.
 
